@@ -485,5 +485,3 @@ but software fail-safes like this library help ensure more **intelligent** and *
 Made with ❤️ by [Erfan Ganji](https://github.com/ErfanGanji87)  
 Telegram: `@ErfanGanji2`  
 GitHub: [ErfanGanji87](https://github.com/ErfanGanji87)
-)
-
