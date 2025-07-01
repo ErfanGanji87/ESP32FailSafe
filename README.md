@@ -32,9 +32,9 @@ This library ensures your system is always **under control** — and **shuts dow
 1. Copy the `ESP32FailSafe.h` and `ESP32FailSafe.cpp` to your project folder  
 2. Or install it via GitHub:
 
-```bash
-git clone https://github.com/YourUsername/ESP32FailSafe.git
-```
+
+git clone https://github.com/ErfanGanji87/ESP32FailSafe
+
 
 Then include it in your sketch:
 
@@ -159,5 +159,5 @@ but software fail-safes like this library help ensure more **intelligent** and *
 ## 👨‍💻 Author
 
 Made with ❤️ by [Erfan Ganji](https://github.com/ErfanGanji87)  
-Telegram: `@YourTelegramID`  
+Telegram: `@ErfanGanji2`  
 GitHub: [github.com/YourUsername](https://github.com/ErfanGanji87)
