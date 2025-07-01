@@ -156,23 +156,8 @@ but software fail-safes like this library help ensure more **intelligent** and *
 
 ---
 
-## 📸 Screenshot (optional)
-
-<p align="center">
-  <img src="docs/screenshot.png" width="600">
-</p>
-
----
-
 ## 👨‍💻 Author
 
-Made with ❤️ by [Erfan Ganji](https://github.com/YourUsername)  
+Made with ❤️ by [Erfan Ganji](https://github.com/ErfanGanji87)  
 Telegram: `@YourTelegramID`  
-GitHub: [github.com/YourUsername](https://github.com/YourUsername)
-
----
-
-## 📄 License
-
-MIT License — Free for personal and commercial use.  
-Please give credit if you use this in your project 🙌
+GitHub: [github.com/YourUsername](https://github.com/ErfanGanji87)
